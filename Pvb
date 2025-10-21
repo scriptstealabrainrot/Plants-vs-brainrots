@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptstealabrainrot/Steal-A-Brainrot-Dupe/refs/heads/main/Dupe"))()
